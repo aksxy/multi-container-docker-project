@@ -32,3 +32,16 @@ docker-compose-multi-container/
    docker-compose up --build
 
 3. Access the backend service at http://localhost:3000.
+
+### Screenshots
+
+- **Docker Compose Setup:**
+  ![Docker Compose]![docker-compose](https://github.com/user-attachments/assets/84aa59ec-a533-40c1-8b1f-6a0d36db349b)
+
+- **Running Containers:**
+  ![Docker Containers]![Running-Containers](https://github.com/user-attachments/assets/6e3ceb2b-dace-49e9-bc64-5e997eeb290b)
+
+
+- **Backend Service Output:**
+  ![Backend Output]![webserver-running](https://github.com/user-attachments/assets/0d08cc29-addf-450a-aa3d-b406cf8d7f3d)
+
